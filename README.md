@@ -21,7 +21,7 @@ Visual components and Python
 ![image](https://github.com/amal-2006/Open-Jacson-Networks/assets/148410730/34295d41-61bd-4a90-ace9-b363b8987016)
 
 
-## Program
+## Program:
 
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -99,7 +99,7 @@ else:
 
 print("----------------------------------------------------------------------")
 
-## Output
+## Output:
 ![image](https://github.com/amal-2006/Open-Jacson-Networks/assets/148410730/f596bccf-b34c-462f-9ec8-45a0b8622a5f)
 
-## Result
+## Result:
